@@ -79,7 +79,7 @@ export const Hero = ({ completed, children }) => {
         transition={{ delay: 2.4, duration: 1.2 }}
         className="absolute bottom-6 right-8 z-20 mono text-[10px] tracking-[0.4em] uppercase text-white/60 no-select"
       >
-        {completed ? "the vault · closed" : "open the vault →"}
+        created by Caleb EJ
       </motion.div>
     </div>
   );
