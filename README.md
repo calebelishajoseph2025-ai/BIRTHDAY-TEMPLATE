@@ -159,4 +159,4 @@ Upload that folder to **Netlify**, **Vercel**, **GitHub Pages**, or your own ser
 
 ## 📄 License
 
-MIT — use it, remix it, and make someone's day.
+No License for this...but please don't plagiarize this
